@@ -62,16 +62,16 @@
   width: 0;
   height: 0;
   border: 8px solid transparent;
-  border-bottom-color: #FFD700;
+  border-bottom-color:  #808080;
   position: absolute;
   top: 2.5px;
 }
 .section-title h2:before {
-  border-left-color: #FFD700;
+  border-left-color:  #808080;
   right: -30px;
 }
 .section-title h2:after {
-  border-right-color: #FFD700;
+  border-right-color:  #808080;
   left: -30px;
 }
 .section-title.dark h2 {
@@ -88,7 +88,7 @@
   display: block;
   font-size: 18px;
   text-transform: uppercase;
-  color: #FFD700;
+  color:  #808080;
 }
 .lead {
   color: #948daa;
@@ -98,7 +98,7 @@
 }
 .btn-main {
   padding: 15px 42px;
-  background: #FFD700;
+  background:  #808080;
   color: #fff;
   border-radius: 5px;
   font-family: 'Poppins', sans-serif;
@@ -115,10 +115,10 @@
   border-radius: 5px;
   font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
-  border: 2px solid #FFD700;
+  border: 2px solid  #808080;
 }
 .btn-ghost:hover {
-  background: #FFD700;
+  background:  #808080;
   color: #fff;
 }
 .btn-text {
@@ -213,7 +213,7 @@ body.dark-mode {
   background: #222;
 }
 a {
-  color: #FFD700;
+  color:  #808080;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -294,7 +294,7 @@ h6 {
   padding-right: 1.2rem;
 }
 .site-header .nav-item .active {
-  color: #FFD700;
+  color:  #808080;
 }
 .site-header a {
   color: #222;
@@ -304,7 +304,7 @@ h6 {
 }
 .site-header a:hover,
 .site-header a:focus {
-  color: #FFD700;
+  color:  #808080;
 }
 .site-header .navbar-brand {
   width: 160px;
@@ -314,7 +314,7 @@ h6 {
   color: #fff;
 }
 .dark-mode .site-header a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .dark-mode .site-header .fixed-top {
   background: #1a1a1a;
@@ -347,7 +347,7 @@ h6 {
   color: #222;
 }
 .hero-area .hero-head strong {
-  color: #FFD700;
+  color:  #808080;
   display: block;
 }
 .hero-area .content-block p {
@@ -416,7 +416,7 @@ h6 {
   color: #405de6;
 }
 .hero-area .hero-social a {
-  color: #FFD700;
+  color:  #808080;
   font-size: 24px;
   transition: 0.3s;
 }
@@ -465,7 +465,7 @@ h6 {
   position: absolute;
   top: 0;
   left: 0;
-  background: #FFD700;
+  background:  #808080;
   transition: 0.3s;
   z-index: -1;
   border-radius: 12px;
@@ -523,7 +523,7 @@ h6 {
 .about-section .img-wrapper:after {
   width: 36px;
   height: 36px;
-  background: #FFD700;
+  background:  #808080;
   left: 332px;
   bottom: -90px;
   border-radius: 4px;
@@ -541,7 +541,7 @@ h6 {
   display: block;
   font-size: 18px;
   text-transform: uppercase;
-  color: #FFD700;
+  color:  #808080;
 }
 .about-section .content-block h2 strong {
   display: block;
@@ -616,7 +616,7 @@ h6 {
   display: block;
   font-size: 18px;
   text-transform: uppercase;
-  color: #FFD700;
+  color:  #808080;
 }
 .skill-section .lead {
   color: #bdb9cb;
@@ -641,13 +641,13 @@ h6 {
   position: relative;
 }
 .skill-section .progress-bar {
-  background-color: #FFD700;
+  background-color:  #808080;
 }
 .skill-section .progress-value {
   position: absolute;
   right: 0;
   top: 2px;
-  color: #FFD700;
+  color:  #808080;
   font-size: 16px;
 }
 .progress-bar {
@@ -678,12 +678,12 @@ h6 {
   transition: 0.3s;
 }
 .portfolio-section .filter-button-group button:hover {
-  border-color: #FFD700;
+  border-color:  #808080;
 }
 .portfolio-section .filter-button-group .active {
-  background: #FFD700;
+  background:  #808080;
   color: #fff;
-  border-color: #FFD700;
+  border-color:  #808080;
 }
 .portfolio-section .box {
   background-color: #774691;
@@ -694,7 +694,7 @@ h6 {
 .portfolio-section .box:before,
 .portfolio-section .box:after {
   content: '';
-  background: #FFD700;
+  background:  #808080;
   height: 50%;
   width: 100%;
   opacity: 0.8;
@@ -764,7 +764,7 @@ h6 {
 }
 .portfolio-section .box .icon-box a:hover {
   background: #ffffff;
-  color: #FFD700;
+  color:  #808080;
 }
 .portfolio-section .box:hover:before {
   top: 0;
@@ -804,7 +804,7 @@ h6 {
   position: absolute;
   right: 54px;
   top: 54px;
-  background: #FFD700;
+  background:  #808080;
   color: #fff;
   text-align: center;
   width: 36px;
@@ -1136,7 +1136,7 @@ h6 {
   transition: 0.3s;
 }
 .blog-section .post-meta li a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .content-wrapper {
   position: relative;
@@ -1176,7 +1176,7 @@ h6 {
   transition: 0.3s;
 }
 .blog-section .large-post .post-content h3 a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .large-post .post-meta li {
   color: #fff;
@@ -1224,7 +1224,7 @@ h6 {
   transition: 0.3s;
 }
 .blog-section .post-group h3 a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .post-group .content-wrapper {
   border: 1px solid #e0e0e0;
@@ -1243,7 +1243,7 @@ h6 {
   color: #fff;
 }
 .blog-section .post-group .content-wrapper:hover h3 a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .post-group .content-wrapper:hover .post-meta li {
   color: #fff;
@@ -1252,7 +1252,7 @@ h6 {
   color: #fff;
 }
 .blog-section .post-group .content-wrapper:hover .post-meta li a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .post-group .image-wrapper {
   opacity: 0;
@@ -1262,7 +1262,7 @@ h6 {
   position: absolute;
   right: 54px;
   top: 54px;
-  background: #FFD700;
+  background:  #808080;
   color: #fff;
   text-align: center;
   width: 36px;
@@ -1300,7 +1300,7 @@ h6 {
   transition: 0.3s;
 }
 .blog-section .blog-meta a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .blog-meta li {
   margin-right: 24px;
@@ -1334,7 +1334,7 @@ h6 {
   transition: 0.3s;
 }
 .blog-section .post-footer .blog-tags a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .blog-section .post-footer .blog-share a {
   font-size: 24px;
@@ -1407,7 +1407,7 @@ h6 {
   transition: 0.3s;
 }
 .contact-section a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .contact-section address {
   margin-bottom: 0;
@@ -1478,7 +1478,7 @@ h6 {
   color: #b0aac0;
 }
 .dark-mode .contact-section a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 .dark-mode .contact-section .form-control {
   border-color: #606060;
@@ -1486,7 +1486,7 @@ h6 {
   color: #b0aac0;
 }
 .dark-mode .contact-section .form-control:focus {
-  border-color: #FFD700;
+  border-color:  #808080;
 }
 .dark-mode .contact-section .design-elements {
   opacity: 1;
@@ -1522,7 +1522,7 @@ h6 {
   padding-right: 24px;
 }
 .site-footer input:focus {
-  border-color: #FFD700;
+  border-color:  #808080;
   box-shadow: none;
 }
 .site-footer .footer-brand {
@@ -1557,13 +1557,13 @@ h6 {
   color: #405de6;
 }
 .site-footer .footer-social a {
-  color: #FFD700;
+  color:  #808080;
   transition: 0.3s;
   font-size: 24px;
   display: inline-block;
 }
 .site-footer .footer-social a:hover {
-  color: #FFD700;
+  color:  #808080;
   transform: translateY(-5px);
 }
 .site-footer .back-to-top {
@@ -1574,7 +1574,7 @@ h6 {
 .site-footer .back-to-top a {
   width: 60px;
   height: 60px;
-  background: #FFD700;
+  background:  #808080;
   text-align: center;
   line-height: 60px;
   font-size: 24px;
@@ -1609,7 +1609,7 @@ h6 {
   color: #b0aac0;
 }
 .dark-mode .site-footer .footer-bottom a:hover {
-  color: #FFD700;
+  color:  #808080;
 }
 /***********************************************************
   17. Libraries
@@ -1677,7 +1677,7 @@ h6 {
   height: 8px;
 }
 .swiper .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: #FFD700;
+  background:  #808080;
   opacity: 1;
 }
 .partnerCarousel {
