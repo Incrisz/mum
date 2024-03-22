@@ -337,7 +337,7 @@ h6 {
   width: 100%;
 }
 .hero-area .hero-head {
-  color: #fdb63c;
+  color: #87CEEB;
   font-size: 90px;
 }
 .hero-area .hero-head small {
@@ -479,7 +479,7 @@ h6 {
 }
 .intro-section .icon-box {
   font-size: 48px;
-  color: #fdb63c;
+  color: #87CEEB;
 }
 .intro-section h3 {
   font-size: 28px;
@@ -516,7 +516,7 @@ h6 {
   width: 60px;
   height: 60px;
   border-radius: 7px;
-  border: 5px solid #fdb63c;
+  border: 5px solid #87CEEB;
   left: 30px;
   top: 190px;
 }
@@ -895,7 +895,7 @@ h6 {
 }
 .service-section .icon-box {
   font-size: 36px;
-  color: #fdb63c;
+  color: #87CEEB;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 30px;
@@ -922,7 +922,7 @@ h6 {
   background: #fff;
 }
 .service-section .content-wrapper:hover .icon-box {
-  background: #fdb63c;
+  background: #87CEEB;
   color: #fff;
 }
 .service-section .content-wrapper:hover h3 {
@@ -1007,7 +1007,7 @@ h6 {
 .features-section .icon-box {
   width: 60px;
   height: 60px;
-  background: #fdb63c;
+  background: #87CEEB;
   color: #fff;
   font-size: 24px;
   text-align: center;
@@ -1074,7 +1074,7 @@ h6 {
   width: 72px;
   height: 72px;
   border-radius: 50%;
-  background: #fdb63c;
+  background: #87CEEB;
   position: absolute;
   top: -36px;
   left: 50%;
@@ -1393,7 +1393,7 @@ h6 {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #fdb63c;
+  background: #87CEEB;
   line-height: 60px;
   text-align: center;
   color: #fff;
